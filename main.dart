@@ -9,10 +9,10 @@ void main() {
       child: Center(
         // ignore: prefer_const_constructors
         child: Text(
-          "Trade School",
+          "Trade School home",
           textDirection: TextDirection.ltr,
           // ignore: prefer_const_constructors
-          style: TextStyle(color: Colors.white, fontSize: 30.0),
+          style: TextStyle(color: Color.fromARGB(255, 87, 219, 107), fontSize: 30.0),
         ),
       )));
 }
