@@ -9,7 +9,7 @@ void main() {
       child: Center(
         // ignore: prefer_const_constructors
         child: Text(
-          " home page",
+          " 2 nd home page show ", 
           textDirection: TextDirection.ltr,
           // ignore: prefer_const_constructors
           
